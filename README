@@ -1,0 +1,11 @@
+
+Aviad Dudkevich , Elkana Tovey
+EX: 3
+
+FILES:
+MapReduceFramework.cpp - Implement of MapReduce framework and algorithm.
+Barrier.cpp - given implement of barrier.
+Barrier.h - given implement of barrier.
+
+REMARKS:
+   no remark.
